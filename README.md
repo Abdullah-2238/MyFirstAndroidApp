@@ -3,6 +3,10 @@
 A native Android application built with Java as part of my Android
 development learning journey.
 
+## Preview
+![App Screenshot](img.png)
+![App Screenshot1](img_1.png)
+![App Screenshot2](img_2.png)
 ##  Features
 - User input handling with EditText
 - Dynamic UI updates with TextView
@@ -27,4 +31,4 @@ development learning journey.
 3. Run on device or emulator
 
 ##  Author
-Abdullah Ashfsq — [@Abdullah-2238](https://github.com/Abdullah-2238)
+Abdullah Ashfaq — [@Abdullah-2238](https://github.com/Abdullah-2238)
